@@ -1,0 +1,6 @@
+sensor_id,timestamp,temperature,humidity,location,sensor_type
+1030,2025-04-06 11:13:43,33.59,40.94,BuildingA_Floor2,TypeC
+1083,2025-04-07 02:33:05,20.89,49.43,BuildingA_Floor1,TypeA
+1066,2025-04-05 13:10:19,31.07,52.75,BuildingB_Floor2,TypeA
+1022,2025-04-06 16:31:19,30.19,39.59,BuildingA_Floor2,TypeA
+1094,2025-04-03 05:30:20,31.1,59.99,BuildingA_Floor1,TypeC
