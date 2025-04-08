@@ -84,11 +84,11 @@ assignment-3-spark-structured-api-Krishna-coder12-main/
 python data_generator.py
 
 # Run any task
-python src/task1.py
-python src/task2.py
-python src/task3.py
-python src/task4.py
-python src/task5.py
+spark-submit src/task1.py
+spark-submit src/task2.py
+spark-submit src/task3.py
+spark-submit src/task4.py
+spark-submit src/task5.py
 ```
 
 ---
